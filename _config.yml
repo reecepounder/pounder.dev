@@ -14,6 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Includes an icon in the footer for each user name you enter
+footer-links:
+  github: reecepounder
+  linkedin: reecepounder
+  
 # ----------------------------------------------------------------------------------------------------------------
 # -------------------
 # Seo stuff
@@ -31,6 +36,7 @@ social:
     - https://twitter.com/reecepounder
     - https://github.com/reecepounder
     - https://linkedin.com/in/reecepounder
+
 # -------------------
 # End Seo stuff
 # -------------------
