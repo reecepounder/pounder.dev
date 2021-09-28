@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## <span>r</span>
-##<span>e</span>
-##<span>e</span>
-##<span>c</span>
+## <span>e</span>
+## <span>e</span>
+## <span>c</span>
 <span>e</span>
 <span>@</span>
 <span>p</span>
