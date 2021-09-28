@@ -2,7 +2,23 @@
 layout: default
 ---
 
-## $: whoami
+## <span>r</span>
+<span>e</span>
+<span>e</span>
+<span>c</span>
+<span>e</span>
+<span>@</span>
+<span>p</span>
+<span>o</span>
+<span>u</span>
+<span>n</span>
+<span>d</span>
+<span>e</span>
+<span>r</span>
+<span>.</span>
+<span>d</span>
+<span>e</span>
+<span>v</span>:~$ whoami
 My name is Reece, and I'm a high school student currently studying cybersecurity. I am certified in the CompTIA trifecta, won the National Cyber Scholarship Competiton and Lockheed Martin Cyberquest last year, amongst other things, and am the president of a club at my school for which I am very passionate about.
 
 ## I write blog posts occasionally:
