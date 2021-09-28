@@ -5,13 +5,13 @@ layout: default
 ## whoami
 My name is Reece, and I'm a high school student currently studying cybersecurity. I am certified in the CompTIA trifecta, won the National Cyber Scholarship Competiton and Lockheed Martin Cyberquest last year, amongst other things, and am the president of a club at my school for which I am very passionate about.
 
-## cat stuff.txt
+## stuff
 Some of the stuff I've made over the years:
 - todo
 - todo
 - todo
 
-## I write blog posts occasionally:
+## blog
   <ul>
     {% for post in site.posts %}
       <li>
