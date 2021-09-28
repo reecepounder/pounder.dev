@@ -2,6 +2,7 @@
 layout: post
 title: "Testing Testing"
 subtitle: "A test of technology"
+tags: "test1 test2 test-test3"
 ---
 ## Welcome to my first testing blog post
 
