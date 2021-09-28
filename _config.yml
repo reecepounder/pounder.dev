@@ -25,7 +25,7 @@ footer-links:
 # -------------------
 
 title: Reece Pounder
-tagline: Portfolio and Blog of Reece Pounder
+tagline: Portfolio and Blog
 email: reece@pounder.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio and Blog
@@ -33,7 +33,6 @@ author: Reece Pounder
 social:
   name: Reece Pounder
   links:
-    - https://twitter.com/reecepounder
     - https://github.com/reecepounder
     - https://linkedin.com/in/reecepounder
 
@@ -70,4 +69,4 @@ webmaster_verifications:
 # End Plugin stuff
 # -------------------
 
-
+permalink: /:title/
