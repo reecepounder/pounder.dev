@@ -1,9 +1,19 @@
 ---
 layout: post
 title: "Google Forms Bot"
-subtitle: "Selenium test to prank my friend"
+subtitle: "Selenium bot to prank my friends"
 tags: "selenium google-forms hack prank"
 ---
 ## I made a bot that spams a Google Form.
 
-todo
+The original purpose for this project was to experiment with Selenium, the browser framework. 
+I'd wanted to try it on something but making a sneaker buying bot wasn't feasable at the time given I had no money.
+So, next best alternative, was rigging a Google Form poll for a group I was in. (who is best/worst <topic> kind of thing).
+
+I rigged, if I remember correctly, 17 out of the 24 possible categories. I can attribute some of this to the fact that I had some entries just vote random names, and others to the fact that I placed a measly ~400 votes.
+All in all, though, the candidates I chose would never have won without me and my 'master hacker' skills, haha.
+
+At the end of the day some might think this is sort of a mean move. I think different - not only did I learn how to use Selenium, but I also made it abundantly clear to the host that they should secure any votes or elections, which they did in the future using Microsoft Forms (with Active Directory login) and through an internal system.
+The poll wasn't crucial to anything, either. It was part of an annual tradition but is not remembered by many for very long. So my conscience is okay.
+
+It is on my Github Page at [https://github.com/reecepounder/GoogleFormsBot](https://github.com/reecepounder/GoogleFormsBot). Check out the Python source code.
