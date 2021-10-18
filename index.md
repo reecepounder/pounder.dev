@@ -6,10 +6,11 @@ layout: default
 My name is Reece, and I'm a high school student currently studying cybersecurity. I am certified in the CompTIA trifecta, won the National Cyber Scholarship Competiton and Lockheed Martin Cyberquest last year, amongst other things, and am the president of a club at my school for which I am very passionate about.
 
 ## stuff
-Some of the stuff I've made over the years:
-- ran a cybersecurity club at my school [https://cbcybersec.com]((visit))
-- todo
-- todo
+Some of the stuff I've done over the years:
+- ran a cybersecurity club at my school [(visit)](https://cbcybersec.com)
+- won cyberquest [(proof)](https://www.lockheedmartin.com/en-us/who-we-are/communities/cyber-quest/cyber-quest-winners/cyber-quest-2021-winners.html)
+- wom the national cyber scholarship competition [(proof)](https://www.nationalcyberscholarship.org/winners-2021)
+- some other stuff i have to put later
 
 ## blog
   <ul>
