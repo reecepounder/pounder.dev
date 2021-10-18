@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Testing Testing"
-subtitle: "A test of technology"
+title: "Test post"
+subtitle: "Default blog testing post"
 tags: "test1 test2 test-test3"
 ---
-## Welcome to my first testing blog post
+## This is a test post.
 
-If you're seeing this, then my blog is working. That's a suprise!
+This post has no content. Please, disregard it.
