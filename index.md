@@ -7,7 +7,7 @@ My name is Reece, and I'm a high school student currently studying cybersecurity
 
 ## stuff
 Some of the stuff I've made over the years:
-- todo
+- ran a cybersecurity club at my school [https://cbcybersec.com]((visit))
 - todo
 - todo
 
