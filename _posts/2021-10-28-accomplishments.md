@@ -4,7 +4,7 @@ title: "My accomplishments"
 subtitle: "An incomplete list of everything notable I've ever done - relevant to IT and cybersec, for the most part."
 tags: ""
 ---
-## I thought I'd summarize a list of everything I've done, ever, that is of note. Just to provide some base line to prove how long I've had a passion for computers, for helping others, for learning more, and for doing other stuff.
+### I thought I'd summarize a list of everything I've done, ever, that is of note. Just to provide some base line to prove how long I've had a passion for computers, for helping others, for learning more, and for doing other stuff.
 
 * 2012
   * I worked for the local parish (church region?) council, where I processed digital advertisements for them. I was 8 at the time, and I worked amongst a team of adults while doing so.
