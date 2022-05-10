@@ -28,5 +28,5 @@ Regardless, at that point I stole a distance calculation algorithm from StackOve
 
 I think something I'd like to add, if Pushover allows it, is the ability to present a live map of my design. But that sounds complicated, and the joke I had developed this for was already over (in fact it never begun. It was a large-scale 7-day water fight, but instead of using Life360 which was deemed too accurate we used Snapchat maps instead). Dissapointing, but a fun project nonetheless.
 
-Please use my code if you're developing something for Life360, I've had absolutely no luck with the existing APIs online. (Click here.)[https://github.com/reecepounder/life360-proximity-alert]
+Please use my code if you're developing something for Life360, I've had absolutely no luck with the existing APIs online. (Click here)[https://github.com/reecepounder/life360-proximity-alert].
 
