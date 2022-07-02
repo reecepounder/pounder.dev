@@ -15,11 +15,9 @@ Some of the stuff I've done over the years:
 ## blog
   <ul>
     {% for post in site.posts %}
-      {% if post.visible== 1  %}
         <li>
           <a href="{{ post.url }}"><b>{{ post.title }}</b> - {{post.subtitle}}</a>
         </li>
-      {% endif %}
     {% endfor %}
 
   </ul>
