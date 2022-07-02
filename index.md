@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## whoami
-My name is Reece, and I'm a high school student currently studying cybersecurity. I am certified in the CompTIA trifecta, won the National Cyber Scholarship Competiton and Lockheed Martin Cyberquest last year, amongst other things, and am the president of a club at my school for which I am very passionate about.
+Hi, I'm Reece, and I'm a passionate cybersecurity enthusiast. I've just graduated high school with the CompTIA trifecta, and I've won several awards and competitions listed below. I sometimes post on my blog when something big happens - check it out :)
 
 ## stuff
 Some of the stuff I've done over the years:
