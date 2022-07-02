@@ -12,6 +12,8 @@ Some of the stuff I've done over the years:
 - won the national cyber scholarship competition twice [(2021)](https://www.nationalcyberscholarship.org/winners-2021), [(2022)](https://www.nationalcyberscholarship.org/winners-2022),
 - became the skillsusa national cybersecurity champion [(proof)](https://youtu.be/-7fZTGrj2xc?t=6551)
 
+you can view a pretty long, but still incomplete, list of my accomplishments [here](accomplishments)
+
 ## blog
   <ul>
     {% for post in site.posts %}
