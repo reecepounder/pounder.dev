@@ -9,8 +9,8 @@ My name is Reece, and I'm a high school student currently studying cybersecurity
 Some of the stuff I've done over the years:
 - ran a cybersecurity club at my school [(visit)](https://cbcybersec.com)
 - won a lockheed martin cyberquest [(proof)](https://www.lockheedmartin.com/en-us/who-we-are/communities/cyber-quest/cyber-quest-winners/cyber-quest-2021-winners.html)
-- won the national cyber scholarship competition [(proof)](https://www.nationalcyberscholarship.org/winners-2021)
-- some other stuff i have to put later
+- won the national cyber scholarship competition twice [(2021)](https://www.nationalcyberscholarship.org/winners-2021), [(2022)](https://www.nationalcyberscholarship.org/winners-2022),
+- became the skillsusa national cybersecurity champion [(proof)](https://youtu.be/-7fZTGrj2xc?t=6551)
 
 ## blog
   <ul>
