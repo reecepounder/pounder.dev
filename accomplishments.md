@@ -1,10 +1,15 @@
 ---
 layout: default
 ---
-### I thought I'd summarize a list of everything I've done, ever, that is of note. Just to provide some base line to prove how long I've had a passion for computers, for helping others, for learning more, and for doing other stuff.
+[back to homepage](/)
+# accomplishments
+#### an incomplete list of the notable things i've done, dating back to when I first started getting into computers.
 
 * 2012
   * I worked for my local parish (church region?) council, where I processed digital advertisements for them. I was 8 at the time, and I worked amongst a team of adults who were probably all 60 years old or more.
+
+* 2014
+ * I ran an ICT club with my friends at my elementary school and taught my classmates HTML and Scratch programming.
 
 * 2016
   * I became the go-to technical support person in my middle school, where teachers would routinely call me out of class to help fix issues with projectors, smart boards, laptops, and other technologies.
