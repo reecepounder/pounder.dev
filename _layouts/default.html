@@ -6,7 +6,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <style>
+      @media (min-width:768px) {
+        .certs {
+          display:none;
+        }
+      }
+    </style>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -31,12 +37,12 @@
           <li><a href="{{ site.github.owner_url }}">Browse my<strong>GitHub</strong></a></li>
           <li><a href="https://www.credly.com/users/reecepounder">View my<strong>certs</strong></a></li>
           <!-- this last one is a placeholder, I don't have anything interesting to put here :) -->
-          
-          blah blah blah <br>blah blah blah <br>blah blah blah <br>blah blah blah <br>blah blah blah <br>blah blah blah <br>blah blah blah <br>blah blah blah <br>blah blah blah <br>blah blah blah <br>
-
-
         </ul>
 
+        <div class="certs" style="display: flex; justify-content: center;">
+                <a href="" ><img src="https://images.credly.com/size/340x340/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" style="height: 12vh;"></a>
+                <a href="" ><img src="https://images.credly.com/size/340x340/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" style="height: 12vh; padding-left:2vh"></a>
+        </div>
       </header>
       <section>
 
