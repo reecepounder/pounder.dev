@@ -32,9 +32,15 @@ layout: default
   * I achieved the Google IT support credential certifying my competency in troubleshooting, customer service, networking, operating systems, system administration, security, and data management.
   * I worked at Toyota of North Miami over the summer as a salesman (internship)
   * I was hired at a Code Ninjas 'Dojo', where I taught 7-14 year olds how to code Scratch, Javascript, Roblox Lua, and more.
+  * I started pursuing my IT support side-hobby professionally under the name Pounder IT
 
 * 2022
-  * I left Code Ninjas
+  * I left CodeNinjas
   * I graduated high school
   * I won the regional, state and national level cybersecurity competitions hosted by SkillsUSA, against 17 other teams (read my blog posts about them)
-  * 
+  * I was a beta-tester for the next CompTIA CySA exam (CS0-003)
+
+* 2023
+  * I started at Broward College studying my AS in Cybersecurity (skipped most of my classes thanks to the certifications I have.)
+
+That's pretty much it. My full life story. Some day I'll regret putting this on the internet - if you're reading this on archive.org in the future: hi!
