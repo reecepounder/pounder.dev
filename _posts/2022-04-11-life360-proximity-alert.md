@@ -4,10 +4,6 @@ title: "Life360 Proximity Alert"
 subtitle: "Ping your Apple Watch if people get too close to you. Great for Senior Assassin."
 tags: ""
 ---
-
-## Life360 Proximity Alert
-### A tool I made for Senior Assasain
-
 I was invited to a game of 'Senior Assasain,' which, if you are unaware, is a traditional high school senior game played toward the end of term that is basically a week-long water gun fight. You get a target to elimitate, but you have a target on your back. You do not know who, and they may show up at any time at any place.
 
 So obviously my first thought was, "What can I do to make sure I win?" We were using Life360, so I figured there had to be a way to improve my odds.
