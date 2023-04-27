@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "How to find a short vanity plate in Florida"
