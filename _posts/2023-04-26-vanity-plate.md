@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "How to find a short vanity plate in Florida"
+title: "How To Find A Short Vanity Plate in Florida"
 subtitle: "Using Python to find every short vanity plate combination available in Florida."
 tags: "python florida project bruteforce scrape web"
 ---
-## How to find the shortest available license plate in Florida?
+## Short License Plates? Why?
 
 In the UK, short license plates are worth their weight in gold - literally, some [examples](https://www.swiftreg.co.uk/blog/10-most-expensive-private-number-plates-ever-sold) have sold upwards of £500,000. As a result, it was only fitting that I (a Brit) should take advantage of the relatively low adoption rate of vanity plates in Florida to procure a unique and very short plate: **RP**
 
