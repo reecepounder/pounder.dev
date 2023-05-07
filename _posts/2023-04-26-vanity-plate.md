@@ -4,7 +4,7 @@ title: "How To Find A Short Vanity Plate in Florida"
 subtitle: "Using Python to find every short vanity plate combination available in Florida."
 tags: "python florida project bruteforce scrape web"
 ---
-In the UK, short license plates are worth their weight in gold - literally, some [examples](https://www.swiftreg.co.uk/blog/10-most-expensive-private-number-plates-ever-sold) have sold upwards of £500,000. As a result, it was only fitting that I (a Brit) should take advantage of the relatively low adoption rate of vanity plates in Florida to procure a unique and very short plate: **RP**
+In the UK, short license plates are worth their weight in gold - literally, some [examples](https://www.swiftreg.co.uk/blog/10-most-expensive-private-number-plates-ever-sold) have sold upwards of £500,000. As a result, it was only fitting that I should take advantage of the relatively low adoption rate of vanity plates in Florida to procure a unique and very short plate: **RP**
 
 When I first decided I wanted a vanity plate, my primary goal was to find one that was as short as possible. To help me, I developed a small Python module called [FloridaPlateScraper](https://github.com/reecepounder/FloridaPlateScraper) that tests every single possible permutation of the alphanumericals with the DMV's website, and saves any that are available.
 
