@@ -8,8 +8,8 @@ layout: default
 ## accomplishments
 #### I have had my fair share of adventures:
 - i ran a cybersecurity club at my high school (we got 50+ students comptia/mta certified)
-- my team won Lockheed-Martin's CyberQuest CTF [(proof)](https://www.lockheedmartin.com/en-us/who-we-are/communities/cyber-quest/cyber-quest-winners/cyber-quest-2021-winners.html)
-- I won the National Cyber Scholarship Competition twice [(2021)](https://www.nationalcyberscholarship.org/winners-2021), [(2022)](https://www.nationalcyberscholarship.org/winners-2022),
+- My team won Lockheed-Martin's CyberQuest CTF [(proof)](https://www.lockheedmartin.com/en-us/who-we-are/communities/cyber-quest/cyber-quest-winners/cyber-quest-2021-winners.html)
+- I won the National Cyber Scholarship twice [(2021)](https://www.nationalcyberscholarship.org/winners-2021), [(2022)](https://www.nationalcyberscholarship.org/winners-2022),
 - I won the SkillsUSA National Cybersecuity Competition [(proof)](https://youtu.be/-7fZTGrj2xc?t=6551)
 
 ## blog
