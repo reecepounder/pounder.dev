@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SkillsUSA Florida Cybersecurity Competition"
-subtitle: "My write-up and an overview of the competition"
+subtitle: "Write-up and retrospective."
 tags: ""
 ---
 
