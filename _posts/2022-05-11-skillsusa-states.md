@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "SkillsUSA Florida Cybersecurity Competition"
